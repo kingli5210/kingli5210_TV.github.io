@@ -30,7 +30,7 @@ rtp://225.1.2.8:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/DAGANGYOUTIAN.png" group-title="天津",大港油田
 rtp://225.1.2.14:5002
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-rtp://225.1.1.120:5002
+http://222.95.181.39:4022/rtp/239.49.8.129:6000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://iptv.im2k.com/logo/CCTV2.png" group-title="中央",CCTV-2财经
 rtp://225.1.1.133:5002
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://iptv.im2k.com/logo/CCTV3.png" group-title="中央",CCTV-3综艺
