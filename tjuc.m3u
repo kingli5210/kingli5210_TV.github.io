@@ -104,7 +104,7 @@ rtp://225.1.1.193:5002
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://iptv.im2k.com/logo/HUNAN.png" group-title="地方卫视",湖南卫视
 rtp://225.1.1.114:5002
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGSU.png" group-title="地方卫视",江苏卫视
-rtp://225.1.1.126:5002
+http://222.95.181.39:4022/rtp/239.49.1.16:6000
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://iptv.im2k.com/logo/ZHEJIANG.png" group-title="地方卫视",浙江卫视
 rtp://225.1.1.112:5002
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://iptv.im2k.com/logo/DragonTV.png" group-title="地方卫视",上海东方卫视
