@@ -66,7 +66,7 @@ http://home.isvvv.com:5050/itv/bestzb/5000000004000006119
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="地方卫视",重庆卫视
 http://114.246.181.171:4022/rtp/239.3.1.122:8160
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://iptv.im2k.com/logo/HUBEI.png" group-title="地方卫视",湖北卫视
-http://222.95.181.39:4022/rtp/239.49.8.147:6000
+http://114.246.181.171:4022/rtp/239.3.1.138:8044
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://iptv.im2k.com/logo/SHANDONG.png" group-title="地方卫视",山东卫视
 http://114.246.181.171:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://iptv.im2k.com/logo/HENAN.png" group-title="地方卫视",河南卫视
@@ -84,11 +84,11 @@ http://114.246.181.171:4022/rtp/239.3.1.49:8188
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGXI.png" group-title="地方卫视",广西卫视
 http://114.246.181.171:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://iptv.im2k.com/logo/HAINAN.png" group-title="地方卫视",海南卫视
-http://222.95.181.39:4022/rtp/239.49.8.212:6000
+http://114.246.181.171:4022/rtp/239.3.1.45:8304
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://iptv.im2k.com/logo/SANSHA.png" group-title="地方卫视",三沙卫视
-rtp://225.1.1.182:5002
+http://114.246.181.171:4022/rtp/239.3.1.155:4120
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://iptv.im2k.com/logo/NEIMENGGU.png" group-title="地方卫视",内蒙古卫视 SD
-http://222.95.181.39:4022/rtp/239.49.1.240:6000
+http://114.246.181.171:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://iptv.im2k.com/logo/XINJIANG.png" group-title="地方卫视",新疆卫视 SD
 http://114.246.181.171:4022/rtp/239.3.1.48:8160
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://iptv.im2k.com/logo/SHAANXI.png" group-title="地方卫视",陕西卫视 SD
@@ -104,9 +104,9 @@ http://125.123.76.83:4022/udp/233.50.201.57:5140
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://iptv.im2k.com/logo/BINGTUAN.png" group-title="地方卫视",兵团卫视 SD
 http://125.123.76.83:4022/udp/233.50.201.72:5140
 #EXTINF:-1 tvg-name="CGTN新闻" tvg-logo="http://iptv.im2k.com/logo/CGTN.png" group-title="中央",CGTN SD
-rtp://225.1.1.27:5002
+http://114.246.181.171:4022/rtp/239.3.1.215:4220
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="http://iptv.im2k.com/logo/CGTNDoc.png" group-title="中央",CGTN Documentary SD
-rtp://225.1.1.55:5002
+http://114.246.181.171:4022/rtp/239.3.1.216:4220
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="http://iptv.im2k.com/logo/CCTV-WSJK.png" group-title="中央",CCTV卫生健康
 rtp://225.1.2.165:5002
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="http://iptv.im2k.com/logo/CCTV-BQKJ.png" group-title="中央",CCTV兵器科技
