@@ -110,29 +110,29 @@ http://114.246.181.171:4022/rtp/239.3.1.216:4220
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="http://iptv.im2k.com/logo/CCTV-WSJK.png" group-title="中央",CCTV卫生健康
 rtp://225.1.2.165:5002
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="http://iptv.im2k.com/logo/CCTV-BQKJ.png" group-title="中央",CCTV兵器科技
-rtp://225.1.2.166:5002
+http://114.226.231.240:8888/rtp/239.49.9.9:6000
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="http://iptv.im2k.com/logo/CCTV-DSZN.png" group-title="中央",CCTV电视指南
-rtp://225.1.2.167:5002
+http://114.226.231.240:8888/rtp/239.49.9.5:6000
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="http://iptv.im2k.com/logo/CCTV-FYZQ.png" group-title="中央",CCTV风云足球
-rtp://225.1.2.168:5002
+http://114.226.231.240:8888/rtp/239.49.9.6:6000
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="http://iptv.im2k.com/logo/CCTV-GW.png" group-title="中央",CCTV高尔夫网球
-rtp://225.1.2.169:5002
+http://114.226.231.240:8888/rtp/239.49.9.7:6000
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="http://iptv.im2k.com/logo/CCTV-YSTQ.png" group-title="中央",CCTV央视台球
-rtp://225.1.2.170:5002
+http://114.226.231.240:8888/rtp/239.49.9.22:6000
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="http://iptv.im2k.com/logo/CCTV-SJDL.png" group-title="中央",CCTV世界地理
-rtp://225.1.2.171:5002
+http://114.226.231.240:8888/rtp/239.49.9.8:6000
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="http://iptv.im2k.com/logo/CCTV-NXSS.png" group-title="中央",CCTV女性时尚
-rtp://225.1.2.172:5002
+http://114.226.231.240:8888/rtp/239.49.9.14:6000
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="http://iptv.im2k.com/logo/CCTV-HJJC.png" group-title="中央",CCTV怀旧剧场
-rtp://225.1.2.173:5002
+http://114.226.231.240:8888/rtp/239.49.9.12:6000
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://iptv.im2k.com/logo/CCTV-FYJC.png" group-title="中央",CCTV风云剧场
-rtp://225.1.2.174:5002
+http://114.226.231.240:8888/rtp/239.49.9.10:6000
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="http://iptv.im2k.com/logo/CCTV-DYJC.png" group-title="中央",CCTV第一剧场
-rtp://225.1.2.175:5002
+http://114.226.231.240:8888/rtp/239.49.9.15:6000
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://iptv.im2k.com/logo/CCTV-FYYY.png" group-title="中央",CCTV风云音乐
-rtp://225.1.2.176:5002
+http://114.226.231.240:8888/rtp/239.49.1.68:6000
 #EXTINF:-1 tvg-name="央视精品" tvg-logo="http://iptv.im2k.com/logo/CCTV-WHJP.png" group-title="中央",CCTV央视文化精品
-rtp://225.1.2.177:5002
+http://114.226.231.240:8888/rtp/239.49.9.11:6000
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="http://iptv.im2k.com/logo/CNDF-FXZL.png" group-title="中央",中央新影发现之旅 SD
 rtp://225.1.1.183:5002
 #EXTINF:-1 tvg-name="老故事" tvg-logo="http://iptv.im2k.com/logo/CNDF-LGS.png" group-title="中央",中央新影老故事 SD
@@ -166,7 +166,7 @@ rtp://225.1.1.139:5002
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://iptv.im2k.com/logo/HUANXIAOJUCHANG.png" group-title="专业频道",欢笑剧场4K
 rtp://225.1.1.152:5002
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="http://iptv.im2k.com/logo/DONGFANGCAIJING.png" group-title="专业频道",东方财经
-rtp://225.1.1.247:5002
+http://114.226.231.240:8888/rtp/239.49.1.182:6000
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="http://iptv.im2k.com/logo/SHENGHUOSHISHANG.png" group-title="专业频道",生活时尚
 rtp://225.1.1.143:5002
 #EXTINF:-1 tvg-name="乐游" tvg-logo="http://iptv.im2k.com/logo/LEYOU.png" group-title="专业频道",乐游
@@ -194,7 +194,7 @@ rtp://225.1.2.189:5002
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="http://iptv.im2k.com/logo/ZAOQIJIAOYU.png" group-title="专业频道",早期教育
 rtp://225.1.2.207:5002
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://iptv.im2k.com/logo/JINYINGKATONG.png" group-title="专业频道",金鹰卡通
-rtp://225.1.2.236:5002
+http://114.226.231.240:8888/rtp/239.49.9.23:6000
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="http://iptv.im2k.com/logo/KAKU.png" group-title="专业频道",KAKU少儿 SD
 rtp://225.1.1.58:5002
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="http://iptv.im2k.com/logo/HAHAXUANDONG.png" group-title="专业频道",哈哈炫动 SD
