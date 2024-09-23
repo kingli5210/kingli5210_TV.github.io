@@ -76,7 +76,7 @@ http://114.246.181.171:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGXI.png" group-title="地方卫视",江西卫视
 http://114.246.181.171:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://iptv.im2k.com/logo/YUNNAN.png" group-title="地方卫视",云南卫视
-http://114.246.181.171:4022/rtp/239.3.1.26:8108
+http://home.isvvv.com:5050/itv/bestzb/5000000011000031120
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://iptv.im2k.com/logo/GUIZHOU.png" group-title="地方卫视",贵州卫视
 http://114.246.181.171:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://iptv.im2k.com/logo/GANSU.png" group-title="地方卫视",甘肃卫视
