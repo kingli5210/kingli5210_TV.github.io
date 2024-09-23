@@ -22,7 +22,7 @@ http://114.246.181.171:4022/rtp/239.3.1.62:8112
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://iptv.im2k.com/logo/CCTV10.png" group-title="中央",CCTV-10科教
 http://114.246.181.171:4022/rtp/239.3.1.63:8116
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://iptv.im2k.com/logo/CCTV11.png" group-title="中央",CCTV-11戏曲
-http://222.95.181.39:4022/rtp/239.49.1.11:6000
+http://114.246.181.171:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://iptv.im2k.com/logo/CCTV12.png" group-title="中央",CCTV-12社会与法
 http://222.95.181.39:4022/rtp/239.49.8.135:6000
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://iptv.im2k.com/logo/CCTV13.png" group-title="中央",CCTV-13新闻
