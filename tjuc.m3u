@@ -72,17 +72,17 @@ http://114.246.181.171:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://iptv.im2k.com/logo/HENAN.png" group-title="地方卫视",河南卫视
 http://113.57.109.48:1111/tsfile/live/1032_1.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://iptv.im2k.com/logo/HEBEI.png" group-title="地方卫视",河北卫视
-http://222.95.181.39:4022/rtp/239.49.8.188:6000
+http://114.246.181.171:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGXI.png" group-title="地方卫视",江西卫视
-http://222.95.181.39:4022/rtp/239.49.8.185:6000
+http://114.246.181.171:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://iptv.im2k.com/logo/YUNNAN.png" group-title="地方卫视",云南卫视
-http://enlen.vip:4022/udp/239.200.200.145:8840
+http://114.246.181.171:4022/rtp/239.3.1.26:8108
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://iptv.im2k.com/logo/GUIZHOU.png" group-title="地方卫视",贵州卫视
-http://117.161.12.124/live/program/live/gzwshd8m/8000000/mnf.m3u8
+http://114.246.181.171:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://iptv.im2k.com/logo/GANSU.png" group-title="地方卫视",甘肃卫视
-http://222.95.181.39:4022/rtp/239.49.1.238:6000
+http://114.246.181.171:4022/rtp/239.3.1.49:8188
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGXI.png" group-title="地方卫视",广西卫视
-http://222.95.181.39:4022/rtp/239.49.8.209:6000
+http://114.246.181.171:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://iptv.im2k.com/logo/HAINAN.png" group-title="地方卫视",海南卫视
 http://222.95.181.39:4022/rtp/239.49.8.212:6000
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://iptv.im2k.com/logo/SANSHA.png" group-title="地方卫视",三沙卫视
@@ -90,7 +90,7 @@ rtp://225.1.1.182:5002
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://iptv.im2k.com/logo/NEIMENGGU.png" group-title="地方卫视",内蒙古卫视 SD
 http://222.95.181.39:4022/rtp/239.49.1.240:6000
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://iptv.im2k.com/logo/XINJIANG.png" group-title="地方卫视",新疆卫视 SD
-http://222.95.181.39:4022/rtp/239.49.1.239:6000
+http://114.246.181.171:4022/rtp/239.3.1.48:8160
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://iptv.im2k.com/logo/SHAANXI.png" group-title="地方卫视",陕西卫视 SD
 http://125.123.76.83:4022/udp/233.50.201.59:5140
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://iptv.im2k.com/logo/SHANXI.png" group-title="地方卫视",山西卫视 SD
