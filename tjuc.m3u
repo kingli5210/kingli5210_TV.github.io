@@ -16,7 +16,7 @@ http://123.160.172.168:85/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://iptv.im2k.com/logo/CCTV7.png" group-title="中央",CCTV-7国防军事
 http://171.213.200.219:8888/udp/239.93.1.67:5140
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://iptv.im2k.com/logo/CCTV8.png" group-title="中央",CCTV-8电视剧
-http://222.137.229.152:808/hls/8/index.m3u8
+http://114.246.181.171:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://iptv.im2k.com/logo/CCTV9.png" group-title="中央",CCTV-9记录
 http://222.137.229.152:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://iptv.im2k.com/logo/CCTV10.png" group-title="中央",CCTV-10科教
