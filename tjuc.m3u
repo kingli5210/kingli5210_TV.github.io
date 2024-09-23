@@ -80,7 +80,7 @@ http://home.isvvv.com:5050/itv/bestzb/5000000011000031120
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://iptv.im2k.com/logo/GUIZHOU.png" group-title="地方卫视",贵州卫视
 http://114.246.181.171:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://iptv.im2k.com/logo/GANSU.png" group-title="地方卫视",甘肃卫视
-http://114.246.181.171:4022/rtp/239.3.1.49:8188
+http://117.161.12.124/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGXI.png" group-title="地方卫视",广西卫视
 http://114.246.181.171:4022/rtp/239.3.1.39:8300
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://iptv.im2k.com/logo/HAINAN.png" group-title="地方卫视",海南卫视
