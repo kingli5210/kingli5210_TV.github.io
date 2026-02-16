@@ -1,8 +1,2 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-http://183.159.97.29:8686/udp/233.50.200.21:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-http://tv.sohu.blog/d/mg.php?id=608807420
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078201_dlna.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
